@@ -22,3 +22,6 @@ This repository doesn't come with the following things:
 * Discord Rich Presense
 
 This is for license reasons, you will need to import these yourself if you need/want them.
+
+---
+**note:** the game was written in Unity 2021.1.4f1
