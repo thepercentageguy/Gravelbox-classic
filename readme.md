@@ -14,6 +14,7 @@ Anything you do with the repository is fine as long as it goes with the license.
 
 ---
 if i ever do decide to work on the game again, this repository **will not** be updated.
+The only time this will be updated is with pull requests that i think add good things.
 
 ---
 This repository doesn't come with the following things:
