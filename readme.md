@@ -1,4 +1,4 @@
-# Gravelbox Repository
+# Gravelbox Repository <img src="https://github.com/thepercentageguy/Gravelbox/blob/main/Assets/Sprites/gravelbox.png" alt="icon" width="30"/>
 
 This is the official Gravelbox repository, and this file will just contain a few notes.
 
