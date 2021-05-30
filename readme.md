@@ -10,9 +10,6 @@ At the start of the game there is a disclaimer that says:
 While i can't stop you from removing it, it'd be nice if you kept it.
 
 ---
-Anything you do with the repository is fine as long as it goes with the license.
-
----
 if i ever do decide to work on the game again, this repository **will not** be updated.
 The only time this will be updated is with pull requests that i think add good things.
 
