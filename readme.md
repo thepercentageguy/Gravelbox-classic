@@ -1,6 +1,6 @@
-# Gravelbox Repository <img src="https://github.com/thepercentageguy/Gravelbox/blob/main/Assets/Sprites/gravelbox.png" alt="icon" width="30"/>
+# "Gravelbox: Legacy" Repository <img src="https://github.com/thepercentageguy/Gravelbox/blob/main/Assets/Sprites/gravelbox.png" alt="icon" width="30"/>
 
-This is the official Gravelbox repository, and this file will just contain a few notes.
+This is the official Gravelbox: Legacy repository.
 
 ---
 At the start of the game there is a disclaimer that says:
@@ -10,8 +10,8 @@ At the start of the game there is a disclaimer that says:
 While i can't stop you from removing it, it'd be nice if you kept it.
 
 ---
-if i ever do decide to work on the game again, this repository **will not** be updated.
-The only time this will be updated is with pull requests that i think add good things.
+Gravelbox is back in the form of Gravelbox: Remade
+This repository will not be updated.
 
 ---
 This repository doesn't come with the following things:
