@@ -10,7 +10,7 @@ At the start of the game there is a disclaimer that says:
 While i can't stop you from removing it, it'd be nice if you kept it.
 
 ---
-Gravelbox is back in the form of Gravelbox: Remade
+Gravelbox is back in the form of Gravelbox: Remade<br>
 This repository will not be updated.
 
 ---
